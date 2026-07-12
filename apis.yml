@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://securitytrails.com/corp/apidocs
 common:
+  - type: DomainSecurity
+    url: security/securitytrails-domain-security.yml
   - type: Website
     url: https://securitytrails.com/corp/apidocs
   - type: PublicAPIsListing
