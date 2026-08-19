@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/securitytr
 name: SecurityTrails
 description: "Domain and IP related information such as current and historical WHOIS and DNS records"
 url: https://securitytrails.com/corp/apidocs
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
