@@ -39,7 +39,6 @@ apis:
   - name: SecurityTrails
     description: "Domain and IP related information such as current and historical WHOIS and DNS records"
     humanURL: https://securitytrails.com/corp/apidocs
-    baseURL: https://securitytrails.com/corp/apidocs
     tags:
       - Security
     properties:
