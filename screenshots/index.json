@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "securitytrails",
+    "captured_at": "2026-10-11T192623",
+    "source_url": "https://securitytrails.com/corp/apidocs",
+    "source_type": "Website",
+    "file": "securitytrails-2026-10-11T192623.png",
+    "bytes": 160785,
+    "capture": "playwright-local"
+  }
+]
